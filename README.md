@@ -2,7 +2,7 @@
 
 Este é um pequeno programa em Python que renomeia arquivos em todas as subpastas dentro de uma pasta mãe. Ele mantém a extensão original dos arquivos após a renomeação.
 
-##Como Funciona
+## Como Funciona
 
 1. O programa lista todas as subpastas dentro de uma pasta mãe especificada.
 2. Ele classifica os arquivos dentro de cada subpasta em ordem alfabética.
