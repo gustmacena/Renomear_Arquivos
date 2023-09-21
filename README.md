@@ -2,6 +2,13 @@
 
 Este é um pequeno programa em Python que renomeia arquivos em todas as subpastas dentro de uma pasta mãe. Ele mantém a extensão original dos arquivos após a renomeação.
 
+##Como Funciona
+
+1. O programa lista todas as subpastas dentro de uma pasta mãe especificada.
+2. Ele classifica os arquivos dentro de cada subpasta em ordem alfabética.
+3. Em seguida, renomeia cada arquivo sequencialmente, começando de "1" e mantendo a extensão original.
+4. Esta é uma ferramenta útil para organizar e padronizar nomes de arquivos em grandes coleções de dados, como imagens, documentos ou qualquer outro tipo de arquivo.
+
 ## Como Usar
 
 1. Certifique-se de ter o Python instalado em seu sistema. Você pode baixá-lo em [python.org](https://www.python.org/downloads/).
